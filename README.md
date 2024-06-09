@@ -9,6 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### About
 
 * 🌍  I'm based in THAILAND
+* 🏫 I'm study at Assumption College Sriracha
 * 🖥️  See my portfolio at [Link tree](http://pollayaaa.vercel.app)
 * ✉️  You can contact me at [uoo082551@gmail.com](mailto:uoo082551@gmail.com)
 
