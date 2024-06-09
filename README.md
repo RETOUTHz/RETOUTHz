@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pollapat Rattanapol
 ===========================================================================================================================================
 
-*Moo ping -- MakeX Explorer 2023 
-*Cs6th -- MakeX Challenger
+* Moo ping -- MakeX Explorer 2023 
+* Cs6th -- MakeX Challenger
 
 * 🌍  I'm based in THAILAND
 * 🖥️  See my portfolio at [Link tree](http://pollayaaa.vercel.app)
