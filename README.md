@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Team
 
-* Moo ping -- MakeX Explorer 2023 
+* <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr42CNc55MAiQ0RnaaFOU1ZtUI5vll5uNRMUaO-uvUCvaMT6Ko"></a>Moo ping -- MakeX Explorer 2023 
 * Cs6th -- MakeX Challenger 2023 - 2024
 
 ### About
