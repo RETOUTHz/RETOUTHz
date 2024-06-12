@@ -1,4 +1,4 @@
-Hi <img src="https://media3.giphy.com/media/PTNxVgVrHLBHU7pvCC/giphy.gif?cid=6c09b952xqgxgjib95dam94vo1k62l92eidoa85dbt8gybnd&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>My name is Pollapat Rattanapol
+Hi <img src="https://media3.giphy.com/media/PTNxVgVrHLBHU7pvCC/giphy.gif?cid=6c09b952xqgxgjib95dam94vo1k62l92eidoa85dbt8gybnd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="36" height"36"></img>My name is Pollapat Rattanapol
 ____
 
 ### 🤖Robotics
