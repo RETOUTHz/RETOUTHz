@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🤖Robotics
 
-* 🥉Moo ping -- MakeX Explorer 2023 
-* 🥈Cs6th -- MakeX Challenger 2023
-* ❓Cs6th -- MakeX Challenger 2024
+* 🥉Moo ping -- MakeX Explorer : Royal Trophy 2023 
+* 🥈Cs6th -- MakeX Challenger : Thailand 2023
+* 🥈Cs6th -- MakeX Challenger : Royal Trophy 2024
 
 ### 📝About
 
