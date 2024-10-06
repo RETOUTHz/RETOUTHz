@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🥉Moo ping -- MakeX Explorer 2023 : Royal Trophy 2024 
 * 🥈Cs6th -- MakeX Challenger 2023 : Thailand 2023
 * 🥈Cs6th -- MakeX Challenger 2024 : Royal Trophy 2024
+* 🤔ไชยงาม Maker -- Arduino Explore Iot kit Hackathon 2024 Zero Weste of BCG Economy
 
 ### 📝About
 
