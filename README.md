@@ -7,8 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🥈Cs6th -- MakeX Challenger 2023 : Thailand 2023
 * 🥈Cs6th -- MakeX Challenger 2024 : Royal Trophy 2024
 * 🤔CHAINGAM MAKER -- Arduino Explore IOT kit Hackathon 2024 Zero Weste of BCG Economy
+* 🤔ACS Robores --  RMRC : Thailand Open 2025
 * 🥉FUSION -- MakeX Chellenger 2025 : Thailand 2025
 * 🥈FUSION -- MakeX Chellenger 2025 : WRCF 2025
+* 🤔DinamoKorat --  RMRC : Thailand Open 2026
 
 ### 📝About
 
