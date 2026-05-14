@@ -31,4 +31,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="http://www.instagram.com/pxllpt.ax/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF2aXUxcTE1ejR4YWE2MTQzNTBybGE5bHkwcTQ2Zzk4b3YyZWF1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5u55OjbjPcho54asJ6/giphy.gif">
+<img src="https://tenor.com/view/six-seven-bird-papagaio-aura-gif-17959378270241582062">
+
